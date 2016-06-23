@@ -13,7 +13,7 @@
 #### cusplib 
     BLE低功耗蓝牙lib
 #### MPChartLib 
-    一个绚丽的图标lib 
+    一个绚丽的图表lib 
 #### okhttplib 
     对okhttp 的封装项目lib
     简单对 get、post、进行了封装对statecode 进行区分 
