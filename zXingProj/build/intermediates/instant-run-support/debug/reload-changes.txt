@@ -1,0 +1,4 @@
+CHANGED,/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/dtr/zxing/activity/CaptureActivity$1$override.class
+CHANGED,/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/dtr/zxing/activity/CaptureActivity$2$override.class
+CHANGED,/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/dtr/zxing/activity/CaptureActivity$override.class

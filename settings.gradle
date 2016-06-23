@@ -1,0 +1,2 @@
+include ':app', ':MPChartLib', ':phonedevicetools', ':okhttplib', ':basepullrefreshlib', ':cusplib', ':autoupdatalib', ':qrzxing'
+include ':zXingProj'

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/Volumes/Transcend/MyLibrary/androidLibrarys/basepullrefreshlib/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Volumes/Transcend/MyLibrary/androidLibrarys/basepullrefreshlib/src/androidTest/assets"/><source path="/Volumes/Transcend/MyLibrary/androidLibrarys/basepullrefreshlib/build/generated/assets/shaders/androidTest/debug"/></dataSet></merger>

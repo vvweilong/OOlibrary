@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MPChartLib/MPChartLib.iml" filepath="$PROJECT_DIR$/MPChartLib/MPChartLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidLibrarys.iml" filepath="$PROJECT_DIR$/androidLibrarys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autoupdatalib/autoupdatalib.iml" filepath="$PROJECT_DIR$/autoupdatalib/autoupdatalib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basepullrefreshlib/basepullrefreshlib.iml" filepath="$PROJECT_DIR$/basepullrefreshlib/basepullrefreshlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cusplib/cusplib.iml" filepath="$PROJECT_DIR$/cusplib/cusplib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttplib/okhttplib.iml" filepath="$PROJECT_DIR$/okhttplib/okhttplib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phonedevicetools/phonedevicetools.iml" filepath="$PROJECT_DIR$/phonedevicetools/phonedevicetools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qrzxing/qrzxing.iml" filepath="$PROJECT_DIR$/qrzxing/qrzxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zXingProj/zXingProj.iml" filepath="$PROJECT_DIR$/zXingProj/zXingProj.iml" />
+    </modules>
+  </component>
+</project>

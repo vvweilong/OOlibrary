@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="560dpi"
+    format="7"
+    timestamp="1466655805274455000" >
+
+    <task
+        name="javac"
+        duration="423" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="473" />
+    <task
+        name="verifier"
+        duration="9" />
+
+    <artifact
+        location="/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+
+    <build timestamp="1466655673435211000" >
+        <artifact
+            location="/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/build/outputs/apk/zXingProj-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="1466655805274455000" >
+        <artifact
+            location="/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

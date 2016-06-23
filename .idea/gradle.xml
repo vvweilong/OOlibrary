@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/MPChartLib" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/autoupdatalib" />
+            <option value="$PROJECT_DIR$/basepullrefreshlib" />
+            <option value="$PROJECT_DIR$/cusplib" />
+            <option value="$PROJECT_DIR$/okhttplib" />
+            <option value="$PROJECT_DIR$/phonedevicetools" />
+            <option value="$PROJECT_DIR$/qrzxing" />
+            <option value="$PROJECT_DIR$/zXingProj" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/MPChartLib" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/autoupdatalib" />
+            <option value="$PROJECT_DIR$/basepullrefreshlib" />
+            <option value="$PROJECT_DIR$/cusplib" />
+            <option value="$PROJECT_DIR$/okhttplib" />
+            <option value="$PROJECT_DIR$/phonedevicetools" />
+            <option value="$PROJECT_DIR$/qrzxing" />
+            <option value="$PROJECT_DIR$/zXingProj" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

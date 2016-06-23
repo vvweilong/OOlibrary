@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/build/intermediates/res/merged/debug/layout/activity_result.xml",
+        "source": "/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/src/main/res/layout/activity_result.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/build/intermediates/res/merged/debug/layout/activity_capture.xml",
+        "source": "/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/src/main/res/layout/activity_capture.xml"
+    }
+]

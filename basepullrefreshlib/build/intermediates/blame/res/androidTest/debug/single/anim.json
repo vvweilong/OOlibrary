@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Volumes/Transcend/MyLibrary/androidLibrarys/basepullrefreshlib/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_bottom.xml",
+        "source": "/Volumes/Transcend/MyLibrary/androidLibrarys/basepullrefreshlib/build/intermediates/bundles/debug/res/anim/slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhuxiaolong/workplace/Xiuxiu_android/XiuSchool/library/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_top.xml",
+        "source": "/Users/zhuxiaolong/workplace/Xiuxiu_android/XiuSchool/library/build/intermediates/bundles/debug/res/anim/slide_in_from_top.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/MyLibrary/androidLibrarys/basepullrefreshlib/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_top.xml",
+        "source": "/Volumes/Transcend/MyLibrary/androidLibrarys/basepullrefreshlib/build/intermediates/bundles/debug/res/anim/slide_out_to_top.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/MyLibrary/androidLibrarys/basepullrefreshlib/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_top.xml",
+        "source": "/Volumes/Transcend/MyLibrary/androidLibrarys/basepullrefreshlib/build/intermediates/bundles/debug/res/anim/slide_in_from_top.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/MyLibrary/androidLibrarys/basepullrefreshlib/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_bottom.xml",
+        "source": "/Volumes/Transcend/MyLibrary/androidLibrarys/basepullrefreshlib/build/intermediates/bundles/debug/res/anim/slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhuxiaolong/workplace/Xiuxiu_android/XiuSchool/library/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_bottom.xml",
+        "source": "/Users/zhuxiaolong/workplace/Xiuxiu_android/XiuSchool/library/build/intermediates/bundles/debug/res/anim/slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhuxiaolong/workplace/Xiuxiu_android/XiuSchool/library/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_top.xml",
+        "source": "/Users/zhuxiaolong/workplace/Xiuxiu_android/XiuSchool/library/build/intermediates/bundles/debug/res/anim/slide_out_to_top.xml"
+    },
+    {
+        "merged": "/Users/zhuxiaolong/workplace/Xiuxiu_android/XiuSchool/library/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_bottom.xml",
+        "source": "/Users/zhuxiaolong/workplace/Xiuxiu_android/XiuSchool/library/build/intermediates/bundles/debug/res/anim/slide_out_to_bottom.xml"
+    }
+]

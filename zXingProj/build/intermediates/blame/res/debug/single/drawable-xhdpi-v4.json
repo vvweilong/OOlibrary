@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/build/intermediates/res/merged/debug/drawable-xhdpi-v4/qr_code_bg.9.png",
+        "source": "/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/src/main/res/drawable-xhdpi/qr_code_bg.9.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_line.png",
+        "source": "/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/src/main/res/drawable-xhdpi/scan_line.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/build/intermediates/res/merged/debug/drawable-xhdpi-v4/shadow.png",
+        "source": "/Volumes/Transcend/MyLibrary/androidLibrarys/zXingProj/src/main/res/drawable-xhdpi/shadow.png"
+    }
+]
